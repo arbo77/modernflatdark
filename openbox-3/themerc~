@@ -1,0 +1,132 @@
+# Window geometry
+
+border.width: 1
+window.client.padding.width: 0
+window.client.padding.height: 0
+window.handle.width: 0
+padding.width: 5
+padding.height: 2
+
+#Menu geometry
+menu.border.width: 1
+menu.overlap.x: 1
+menu.overlap.y: -1
+
+# Border colors
+window.active.border.color: #0e0e0e
+window.inactive.border.color: #0e0e0e
+menu.border.color: #a6a6a6
+menu.separator.color:#e8e8e8
+window.active.client.color: #1A1919
+window.inactive.client.color: #1A1919
+
+window.active.title.separator.color:  #0e0e0e
+window.inactive.title.separator.color: #0e0e0e
+
+# Text shadows
+window.active.label.text.font: shadow=n
+window.inactive.label.text.font: shadow=n
+menu.items.font: shadow=n
+menu.title.text.font: shadow=n
+
+# Window title justification
+window.label.text.justify: left
+
+# Active window
+window.active.title.bg: Flat solid
+window.active.title.bg.color: #141414
+window.active.label.bg: Parentrelative
+window.active.label.text.color: #e7e7e7
+
+window.active.button.unpressed.bg: flat solid border
+window.active.button.unpressed.bg.color: #0e0e0e
+window.active.button.unpressed.bg.border.color: #060606
+window.active.button.unpressed.image.color: #e7e7e7
+
+window.active.button.pressed.bg: parentrelative
+window.active.button.pressed.bg.color: #1A1919
+window.active.button.pressed.bg.border.color: #1A1919
+window.active.button.pressed.image.color: #444444
+
+window.active.button.disabled.bg: flat solid border
+window.active.button.disabled.bg.color: #0e0e0e
+window.active.button.disabled.bg.border.color: #060606
+window.active.button.disabled.image.color: #444444
+
+window.active.button.toggled.bg: flat solid border
+window.active.button.toggled.bg.color: #0e0e0e
+window.active.button.toggled.bg.border.color: #060606
+window.active.button.toggled.image.color: #e7e7e7
+
+window.active.button.hover.bg: flat solid border
+window.active.button.hover.bg.color: #0e0e0e
+window.active.button.hover.bg.border.color: #060606
+window.active.button.hover.image.color: #417af5
+
+# Inactive windows
+window.inactive.title.bg: Flat solid
+window.inactive.title.bg.color: #141414
+
+window.inactive.label.bg: Parentrelative
+window.inactive.label.text.color: #868686
+
+window.inactive.button.unpressed.bg: flat solid border
+window.inactive.button.unpressed.bg.color: #0e0e0e
+window.inactive.button.unpressed.bg.border.color: #060606
+window.inactive.button.unpressed.image.color: #868686
+
+window.inactive.button.pressed.bg: parentrelative
+window.inactive.button.pressed.bg.color: #1A1919
+window.inactive.button.pressed.bg.border.color: #1A1919
+window.inactive.button.pressed.image.color: #444444
+
+window.inactive.button.disabled.bg: flat solid border
+window.inactive.button.disabled.bg.color: #0e0e0e
+window.inactive.button.disabled.bg.border.color: #060606
+window.inactive.button.disabled.image.color: #252525
+
+window.inactive.button.toggled.bg: flat solid border
+window.inactive.button.toggled.bg.color: #0e0e0e
+window.inactive.button.toggled.bg.border.color: #060606
+window.inactive.button.toggled.image.color: #868686
+
+window.inactive.button.hover.bg: flat solid border
+window.inactive.button.hover.bg.color: #0e0e0e
+window.inactive.button.hover.bg.border.color: #060606
+window.inactive.button.hover.image.color: #417af5
+
+# Menus
+menu.title.bg: flat solid
+menu.title.bg.color: #141414
+menu.title.text.color: #868686
+menu.title.text.justify: Center
+
+menu.items.bg: flat solid 
+menu.items.bg.color: #fafafa
+menu.items.text.color: #ababab
+menu.items.disabled.text.color: #ababab
+
+menu.items.active.bg: flat solid border
+menu.items.active.bg.color: #0e0e0e
+menu.items.active.bg.border.color: #060606
+menu.items.active.text.color: #fafafa
+menu.items.active.disabled.text.color: #454545
+
+#osd
+osd.border.width: 1
+osd.border.color:  #0e0e0e
+
+osd.bg: flat solid border
+osd.bg.color: #fafafa
+osd.bg.border.color: #060606
+
+osd.label.bg: parentrelative
+
+osd.label.text.color: #ababab
+
+osd.hilight.bg: flat solid
+osd.hilight.bg.color: #060606
+
+osd.unhilight.bg: flat solid
+osd.unhilight.bg.color: #0e0e0e
+
